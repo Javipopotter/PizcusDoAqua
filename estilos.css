@@ -1,0 +1,22 @@
+body{
+    background-image: url("Images/93265.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+}
+
+header{
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+    font: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 50px;
+}
+
+h2{
+    background-color: rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    text-align: center;
+}
